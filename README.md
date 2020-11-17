@@ -1,2 +1,2 @@
 # C-primer-plus
-C primer plus课后习题
+C primer plus笔记和课后习题
